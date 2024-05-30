@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|c:\\users\\dell\\desktop\\code\\c\\task30-05\\task30-05\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|solutionrelative:task30-05\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|c:\\users\\dell\\desktop\\code\\c\\task30-05\\task30-05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|solutionrelative:task30-05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|c:\\users\\dell\\desktop\\code\\c\\task30-05\\task30-05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|solutionrelative:task30-05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|c:\\users\\dell\\desktop\\code\\c\\task30-05\\task30-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51871078-EF7A-48C5-A854-534D330EFEDF}|task30-05\\task30-05.csproj|solutionrelative:task30-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Group.cs",
+              "RelativeDocumentMoniker": "task30-05\\Group.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Group.cs",
+              "RelativeToolTip": "task30-05\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:12:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Student.cs",
+              "RelativeDocumentMoniker": "task30-05\\Student.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Student.cs",
+              "RelativeToolTip": "task30-05\\Student.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:05:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\User.cs",
+              "RelativeDocumentMoniker": "task30-05\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\User.cs",
+              "RelativeToolTip": "task30-05\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:34:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Program.cs",
+              "RelativeDocumentMoniker": "task30-05\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\task30-05\\task30-05\\Program.cs",
+              "RelativeToolTip": "task30-05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:33:24.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
